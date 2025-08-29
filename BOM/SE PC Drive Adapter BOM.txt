@@ -1,0 +1,15 @@
+Partlist
+
+Exported from SE PC Drive Adapter.sch at 29/Aug/25 14:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device     Package  Library        Sheet
+
+SV1                     ML26       ML26     con-harting-ml 1
+X1                      F37HP      F37HP    con-subd       1
+
+Additional:
+IDC26 30CM Cable
